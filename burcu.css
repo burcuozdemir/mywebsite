@@ -1,0 +1,12 @@
+#btext {
+  text-align:center;
+  width: 50%;
+  margin: auto;
+}
+
+#header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
